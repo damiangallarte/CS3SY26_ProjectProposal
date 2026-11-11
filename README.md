@@ -3,7 +3,7 @@
 
 ## Project Proposal Template:
 
-### Project Title or Name of the Application	: Phenotypic and Genotypic Ratio Predictor
+### Project Title or Name of the Application	: Phenotypic and Genotypic Ratio Predictor For Mendelian Inheritance
 ### Section			   	      : Sodium
 ### Group Members			    : Damian Gallarte, Carl De Ramos, Hyacinth Dondo
 ### Date (Proposal Date)  : Nov 13, 2026
@@ -11,6 +11,7 @@
 ### Project Description:
 
 - A brief summary of the project description and the need for it.
+The Phenotypic and Genotypic Ratio Predictor For Mendelian Inheritance is a tool used to automate and visualize the predictions for the genotypic and phenotypic ratios of offspring. This uses Mendel's Laws of segregation and independent assortment and applies logic from Punnett squares, taking the genotypes of parents to generate the probability and outcomes of monohybrid, dihybrid, and multihybrid crosses.
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
 
