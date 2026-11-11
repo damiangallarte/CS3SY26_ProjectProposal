@@ -3,10 +3,10 @@
 
 ## Project Proposal Template:
 
-### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
-### Date (Proposal Date)  : Nov 5, 2026
+### Project Title or Name of the Application	: Phenotypic and Genotypic Ratio Predictor
+### Section			   	      : Sodium
+### Group Members			    : Damian Gallarte, Carl De Ramos, Hyacinth Dondo
+### Date (Proposal Date)  : Nov 13, 2026
 
 ### Project Description:
 
