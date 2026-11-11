@@ -19,37 +19,37 @@ The Phenotypic and Genotypic Ratio Predictor For Mendelian Inheritance is a tool
 Parent class: This class represents the organism participating in breeding. 
 Attributes:
 
-- parent_genotype(Genotype): The Genotype object of the parent
+-parent_genotype(Genotype): The Genotype object of the parent
 
-- name (str): identifier for which parent it is
+-name (str): identifier for which parent it is
 
 Method:
 
-+ get_gamete(): Provides possible allele combination for gametes using Mendel's Laws of Segregation and Independent Assortment.
++get_gamete(): Provides possible allele combination for gametes using Mendel's Laws of Segregation and Independent Assortment.
 
 Allele class: This class represents each individual variant of a gene
 
 Attributes:
 
-- letter (str): The literal letter symbol for a certain allele e.g. "t" or "T"
+-letter (str): The literal letter symbol for a certain allele e.g. "t" or "T"
   
-- is_dominant (bool): Attribute determining whether the allele is dominant or recessive.
+-is_dominant (bool): Attribute determining whether the allele is dominant or recessive.
   
 Methods:
 
-+ __str__(): returns the string symbol
++__str__(): returns the string symbol
 
 Genes class: This class represents a single possible trait
 
 Attributes:
 
-- name (str): name of a specific trait such as flower color
+-name (str): name of a specific trait such as flower color
   
-- alleles (list): list of possible Allele objects for a specific gene
+-alleles (list): list of possible Allele objects for a specific gene
   
 Methods:
 
-+ dominant_allele(): Returns dominant alleles
++dominant_allele(): Returns dominant alleles
   
 +recessive_allele(): Returns recessive alleles
 
@@ -57,13 +57,13 @@ Genotype class: This class represents a combination of alleles
 
 Attributes:
 
-- child_genotype (str): A specific combination of alleles such as "Tt"
+-child_genotype (str): A specific combination of alleles such as "Tt"
   
 Methods:
 
-+ get_genotype(): Provides the probability of getting an offspring with the exact child_genotype among all possibilities.
++get_genotype(): Provides the probability of getting an offspring with the exact child_genotype among all possibilities.
 
-+ get_phenotype(): Provides the actual observable traits such as "Purple flower"
++get_phenotype(): Provides the actual observable traits such as "Purple flower"
 
 
 - Include the description as well of your target demographics as the user of your application.
