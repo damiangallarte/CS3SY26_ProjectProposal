@@ -65,12 +65,16 @@ Methods:
 
 +get_phenotype(): Provides the actual observable traits such as "Purple flower"
 
+A gene contains one to many alleles, a genotype uses genes, a parent has a genotype. The expected output of the program is to print the result of the get_genotype() and get_phenotype() methods.
+
 
 - Include the description as well of your target demographics as the user of your application.
 
 The target demographic and user of this application are high school students around Grade 9 or younger that can benefit from being able to play around with different parent genotypes to see how it affects the phenotypic and genotypic ratio of the offspring. This can aid students in their ability to understand topics regarding genetics.
 
 - The description is then followed by the class diagram, depicting clearly what was described.
+
+**(Class diagram is in untitled.pdf)**
 
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
