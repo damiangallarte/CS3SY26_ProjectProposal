@@ -80,8 +80,8 @@ The target demographic and user of this application are high school students aro
 
 Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
 
-- Objective 1:
-- Objective 2:
+- Objective 1: Create a program that produces genotypic and phenotypic ratios.
+- Objective 2: Provide accurate results and predictions for the probability of acquiring a specific genotypic or phenotypic combination.
 - Objective n:
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
