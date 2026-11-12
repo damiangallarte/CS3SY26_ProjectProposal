@@ -65,7 +65,9 @@ Methods:
 
 +get_phenotype(): Provides the actual observable traits such as "Purple flower"
 
-A gene contains one to many alleles, a genotype uses genes, a parent has a genotype. The expected output of the program is to print the result of the get_genotype() and get_phenotype() methods.
+A Gene contains one to many Alleles, a Genotype uses Genes, a Parent posseses a Genotype. 
+
+The expected output of the program is to compute and print the results of the get_genotype() and get_phenotype() methods, simulating inheritance.
 
 
 - Include the description as well of your target demographics as the user of your application.
