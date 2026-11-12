@@ -1,3 +1,4 @@
+
 # CS3SY26_ProjectProposal by Aline Teresa Mendoza from CS Unit of PSHS
 
 
@@ -76,7 +77,8 @@ The target demographic and user of this application are high school students aro
 
 - The description is then followed by the class diagram, depicting clearly what was described.
 
-**(Class diagram is in untitled.pdf)**
+**(Class diagram is also in untitled.pdf)**
+<img width="802" height="750" alt="Screenshot 2026-11-12 200949" src="https://github.com/user-attachments/assets/dd4c6e2c-91f1-4e71-9d14-25f825821189" />
 
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
